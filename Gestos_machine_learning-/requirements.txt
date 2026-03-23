@@ -1,0 +1,5 @@
+pip install mediapipe==0.10.14
+pip install opencv-python==4.9.0.80
+pip install scikit-learn==1.4.2
+pip install pandas==2.2.2
+pip install joblib==1.4.2
